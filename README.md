@@ -12,4 +12,5 @@ functionality 3: register product
 spring boot;
 
 🚀 running project
-To run the repository it is necessary to clone it, give mvn clean install, and run the ProductApiApplication class
+To run the repository it is necessary to clone it, give mvn clean install, and run the ProductApiApplication class;
+When the project is started it can be tested via swagger by the link http://localhost:8080/swagger-ui.html#/
